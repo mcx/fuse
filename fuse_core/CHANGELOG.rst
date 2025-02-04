@@ -100,8 +100,8 @@ Changelog for package fuse_core
 * Added a time-limited optimization option to the Graph class (#234)
 * Contributors: Enrique Fernandez Perdomo, Gary Servin, Stephen Williams, Tom Moore
 
-Forthcoming
------------
+0.11.0 (2025-02-04)
+-------------------
 * Fixing issue with Eigen in Ubuntu Jammy on ARM (#378)
   * Fixing issue with Eigen in Ubuntu Jammy on ARM
 * Contributors: Tom Moore

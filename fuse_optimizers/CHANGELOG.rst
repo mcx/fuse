@@ -43,8 +43,8 @@ Changelog for package fuse_optimizers
 * [RST-3451] Cleaned up condition variable usage
 * Contributors: Enrique Fernandez Perdomo, Gary Servin, Stephen Williams, Tom Moore
 
-Forthcoming
------------
+0.11.0 (2025-02-04)
+-------------------
 * Treat external dependencies as system ones (#388)
 * Contributors: Gary Servin
 

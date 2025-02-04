@@ -39,8 +39,8 @@ Changelog for package fuse_publishers
 * Adding doxygen to all packages (#241)
 * Contributors: Gary Servin, Stephen Williams, Tom Moore
 
-Forthcoming
------------
+0.11.0 (2025-02-04)
+-------------------
 * Treat external dependencies as system ones (#388)
 * Fixing issue with Eigen in Ubuntu Jammy on ARM (#378)
   * Fixing issue with Eigen in Ubuntu Jammy on ARM

@@ -55,8 +55,8 @@ Changelog for package fuse_constraints
 * Adding doxygen to all packages (#241)
 * Contributors: Enrique Fernandez Perdomo, Gary Servin, Stephen Williams, Tom Moore
 
-Forthcoming
------------
+0.11.0 (2025-02-04)
+-------------------
 * Fix mutliple definition error (#386)
   * Make implementations inline to fix multiple definition error
 * Fixing issue with Eigen in Ubuntu Jammy on ARM (#378)
