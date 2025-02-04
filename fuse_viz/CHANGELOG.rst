@@ -30,6 +30,12 @@ Changelog for package fuse_viz
 * Adding doxygen to all packages (#241)
 * Contributors: Gary Servin, Stephen Williams, Tom Moore
 
+Forthcoming
+-----------
+* Fixing issue with Eigen in Ubuntu Jammy on ARM (#378)
+  * Fixing issue with Eigen in Ubuntu Jammy on ARM
+* Contributors: Tom Moore
+
 0.10.0 (2024-09-16)
 -------------------
 

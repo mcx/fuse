@@ -47,6 +47,12 @@ Changelog for package fuse_models
 * [RST-3451] Delay some transform warnings so startup is less chatty
 * Contributors: Enrique Fernandez Perdomo, Gary Servin, Stephen Williams, Tom Moore, fabianhirmann
 
+Forthcoming
+-----------
+* Fixing issue with Eigen in Ubuntu Jammy on ARM (#378)
+  * Fixing issue with Eigen in Ubuntu Jammy on ARM
+* Contributors: Tom Moore
+
 0.10.0 (2024-09-16)
 -------------------
 
